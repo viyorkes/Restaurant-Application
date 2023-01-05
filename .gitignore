@@ -1,2 +1,12 @@
 
 .idea/
+
+register/target/
+
+register/register.iml
+
+*.iml
+
+.DS_Store
+
+lib/
